@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.example.minchu.assetmgmt.configuration;
+=======
+
+>>>>>>> first_branch
 
 
 import org.springframework.context.annotation.Bean;
