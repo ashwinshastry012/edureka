@@ -1,4 +1,4 @@
-package com.example.minchu.assetmgmt.configuration;
+
 
 
 import org.springframework.context.annotation.Bean;
