@@ -1,2 +1,2 @@
 # edureka
-learning git
+learni
